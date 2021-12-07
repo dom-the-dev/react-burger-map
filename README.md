@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# React Burger Map - featuring Ania Kubóws Burger Api
+
+Special thank's to Ania Kubów who provides the burger-api for this project. 
+You can find her tutorial how to 'Make your own mock API' [here](https://www.youtube.com/watch?v=FLnxgSZ0DG4) and visit the live API [here](https://my-burger-api.herokuapp.com/burgers).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
 
 ## Available Scripts
 
